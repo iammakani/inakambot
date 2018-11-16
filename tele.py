@@ -5,7 +5,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler
 import logging
 
-TOKEN='720792487:AAHHarcTMiBDcvyXCT207nKOCHYGpB7xwt0'
+TOKEN=''
 proxies = {
     'proxy_url': 'https://46.55.161.132:32377',
 }
